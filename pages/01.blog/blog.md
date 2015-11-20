@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Blog
 blog_url: blog
 body_classes: header-image fullwidth
 
