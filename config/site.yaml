@@ -4,60 +4,15 @@ author:
   name: Grav
   email: 'joe@test.com'
   url: http://getgrav.org/
-  logo: logo.jpg
+  logo:
+  gravatar: contact@getgrav.org
+  description: "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
 blog:
   route: ''
 metadata:
     description: 'Sora Article is a minimal Theme designed for blogger, converted to Grav.'
 taxonomies: [category,tag,month]
 google_translate_token: "a4a3caaf1d41a924-5fa21ae3833dd6c1-g99933840045dca1c-26"
-
-mainmenu:
-    - text: Menu Item
-      url: "#"
-    - text: Another Item
-      url: "#"
-    - text: One more
-      url: "#"
-    - text: Contact
-      url:  page:contact
-
-# MasterSlider Options
-masterslider:
-    - image: 1.jpg
-    - image: 2.jpg
-    - image: 3.jpg
-
-masterslider_setup:
-    width           : 1140
-    height          : 500
-    space           : 0
-    start           : 1
-    grabCursor      : "false"
-    swipe           : "true"
-    mouse           : "false"
-    layout          : "fullwidth"
-    wheel           : "false"
-    autoplay        : "true"
-    instantStartLayers: "false"
-    loop            : "true"
-    shuffle         : "false"
-    preload         : 2
-    heightLimit     : "true"
-    autoHeight      : "false"
-    smoothHeight    : "true"
-    endPause        : "false"
-    overPause       : "true"
-    fillMode        : "fill"
-    centerControls  : "false"
-    layersMode      : "center"
-    hideLayers      : "false"
-    fullscreenMargin: 0
-    speed           : 20
-    dir             : "h"
-    parallaxMode    : 'swipe'
-    view            : "basic"
-
 
 # Footer
 # Feedburner
