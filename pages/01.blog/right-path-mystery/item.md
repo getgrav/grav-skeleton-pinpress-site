@@ -1,6 +1,6 @@
 ---
 title: Right path mystery
-date: 14:55 07/11/2014
+date: 14:55 08/29/2014
 author:
   name: Karol Orzel
   description: "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."

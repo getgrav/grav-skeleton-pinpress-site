@@ -1,6 +1,6 @@
 ---
 title: Simple vimeo post
-date: 17:34 06/27/2014
+date: 17:34 08/24/2014
 taxonomy:
     category: blog
     tag: [vimeo, advertising]
