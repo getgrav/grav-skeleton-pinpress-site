@@ -31,7 +31,7 @@ form:
     buttons:
         - type: submit
           value: Submit
-          classes: gdlr-button with-border excerpt-read-more
+          classes: btn
 
     process:
         - email:
