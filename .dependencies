@@ -35,6 +35,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
         branch: master
+    comments:
+        url: https://github.com/getgrav/grav-plugin-comments
+        path: user/plugins/comments
+        branch: master
     archives:
         url: https://github.com/getgrav/grav-plugin-archives
         path: user/plugins/archives
@@ -79,6 +83,10 @@ links:
     taxonomylist:
         src: grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
+        scm: github
+    comments:
+        src: grav-plugin-comments
+        path: user/plugins/comments
         scm: github
     archives:
         src: grav-plugin-archives
