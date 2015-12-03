@@ -12,7 +12,6 @@ blog:
 metadata:
     description: 'Pinpress is a minimal Theme designed for blogger, converted to Grav.'
 taxonomies: [category,tag,month]
-google_translate_token: "a4a3caaf1d41a924-5fa21ae3833dd6c1-g99933840045dca1c-26"
 
 menu:
   - url: error
