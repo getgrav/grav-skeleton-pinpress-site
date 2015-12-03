@@ -14,6 +14,9 @@ metadata:
 taxonomies: [category,tag,month]
 google_translate_token: "a4a3caaf1d41a924-5fa21ae3833dd6c1-g99933840045dca1c-26"
 
+menu:
+  - url: error
+    text: Error Page
 
 # Copyright
 copyright: Created By <a href="http://www.soratemplates.com/" rel="dofollow" target="_blank" title="Blogger Templates">Sora Templates</a> and <a href="http://mybloggerthemes.com/" rel="dofollow" target="_blank" title="Blogger Templates">My Blogger Themes</a> , Ported By <a href="http://www.getgrav.org" rel="dofollow" target="_blank" title="Grav">Grav Team</a>
